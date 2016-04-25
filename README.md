@@ -15,7 +15,7 @@ Where `filename.txt` is the path/name of the desired text file. If the file name
 Example use of command:
 `java LetterCount example.txt`
 
-##Python Implementation
+##Python 3 Implementation
 The program makes use of Python 3. 
 
 To run `letterCount.py`, navigate via the command line to the directory holding the script. 
