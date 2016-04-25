@@ -5,7 +5,7 @@ Two Implementations of an application which counts the number of each letter in 
 ##Java Implementation
 The program makes use of Java. 
 
-To run LetterCount, navigate via the command line to the directory holding the class. 
+To run the program, navigate via the command line to the directory holding the class. 
 
 Using the command:
 `java LetterCount [filename.txt]`
